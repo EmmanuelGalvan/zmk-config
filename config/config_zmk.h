@@ -1,0 +1,2 @@
+#define MC_TECHNOLOGY_RGB_ENABLE 1
+
