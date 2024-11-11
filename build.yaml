@@ -55,7 +55,7 @@
 include:
 
     # nice
-  - board: nice_nano
+  - board: nice_nano_v2
     # required: https://github.com/M165437/nice-view-gem
     # shield: corne_left nice_view_adapter nice_view
     # shield: corne_left nice_view_adapter nice_view_gem
@@ -63,7 +63,7 @@ include:
     artifact-name: nice_corne_left
     snippet: studio-rpc-usb-uart
     shield: corne_left # for OLED no nice_view
-  - board: nice_nano
+  - board: nice_nano_v2
     # required: https://github.com/M165437/nice-view-gem
     # shield: corne_right nice_view_adapter nice_view
     # shield: corne_right nice_view_adapter nice_view_gem
