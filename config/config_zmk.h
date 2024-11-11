@@ -34,9 +34,11 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 */
 
 // mouse config, 1 = enable, 0 = disable, default = 1
-#define MC_TECHNOLOGY_MOUSE_ENABLE 2
 
 #define MC_TECHNOLOGY_RGB_ENABLE 1
+
+/*
+#define MC_TECHNOLOGY_MOUSE_ENABLE 2
 
 // layers
 #define DEFAULT 0
@@ -104,5 +106,6 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 // define blueth
 #define BT(n) BT_SEL n
+*/
 
 // vim: set ft=c fdm=marker:
