@@ -34,7 +34,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 */
 
 // mouse config, 1 = enable, 0 = disable, default = 1
-#define MC_TECHNOLOGY_MOUSE_ENABLE 0
+#define MC_TECHNOLOGY_MOUSE_ENABLE 2
 
 #define MC_TECHNOLOGY_RGB_ENABLE 1
 
